@@ -28,14 +28,3 @@ In this project, we:
 - **BasicRNN is the fastest but has the highest error**.  
 
 ---
-
-## 🔧 Installation & Setup  
-
-To run the project locally:  
-
-```bash
-git clone https://github.com/your-username/your-repo.git
-cd your-repo
-conda create --name time-series-env python=3.9
-conda activate time-series-env
-pip install -r requirements.txt
